@@ -47,10 +47,11 @@ export default function Footer({ className = "" }: IFooterProps): React.ReactEle
   ];
 
   const quickLinks = [
-    { name: "Inicio", href: "#" },
+    { name: "Inicio", href: "/" },
     { name: "Servicios", href: "#servicios" },
     { name: "Ubicación", href: "#ubicacion" },
     { name: "Contacto", href: "#contacto" },
+    { name: "Política de Privacidad", href: "/politica-privacidad" },
   ];
 
   return (
