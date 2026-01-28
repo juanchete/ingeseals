@@ -52,6 +52,7 @@ export default function Footer({ className = "" }: IFooterProps): React.ReactEle
     { name: "Ubicación", href: "#ubicacion" },
     { name: "Contacto", href: "#contacto" },
     { name: "Política de Privacidad", href: "/politica-privacidad" },
+    { name: "Condiciones del Servicio", href: "/condiciones-servicio" },
   ];
 
   return (
