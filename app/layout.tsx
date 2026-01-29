@@ -84,7 +84,8 @@ export default function RootLayout({
   return (
     <html lang="es">
       <head>
-        <meta name="facebook-domain-verification" content="n4jj6frml9qrylet820q71bc5cx3p" />
+        <meta name="facebook-domain-verification" content="n4jj6frml9qrylet820q7l1bc5cx3p" />
+        <meta property="fb:app_id" content="3377155102443322" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
